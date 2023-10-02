@@ -4,13 +4,12 @@
 	"onCreateCommand": "pip3 install --user -r requirements.txt",
 	"postCreateCommand": "",
 	"customizations": {
-	  "vscode": {
-		"extensions": [
-		  "ms-toolsai.jupyter",
-		  "ms-python.python",
-		  "ms-python.pylint"
-		]
-	  }
+		"vscode": {
+			"extensions": [
+				"ms-toolsai.jupyter",
+				"ms-python.python",
+				"ms-python.pylint"
+			]
+	  	}
 	}
-  }
-  
+}
